@@ -5,8 +5,9 @@ from functions import *
 
 
 
-now = time.strftime("%d %B %Y")
-"""Adds a date"""
+now = time.strftime("%d %B %Y  %H:%M:%S")
+print("It is ", now)
+"""Adds a date and time"""
 
 """να προσθέσω δυνατότητα νέας λίστας-->δηλαδή ,έο αρχείο
 new list
