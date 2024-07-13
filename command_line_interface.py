@@ -3,8 +3,6 @@ import time
 from functions import *
 #or import function and them functions.read_todos()...
 
-
-
 now = time.strftime("%d %B %Y,  %H:%M:%S")
 print("It is ", now)
 """Adds a date and time"""
