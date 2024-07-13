@@ -5,7 +5,7 @@ from functions import *
 
 
 
-now = time.strftime("%d %B %Y  %H:%M:%S")
+now = time.strftime("%d %B %Y,  %H:%M:%S")
 print("It is ", now)
 """Adds a date and time"""
 
